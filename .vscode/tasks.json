@@ -1,0 +1,8 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    { "label": "Lint (ruff)", "type": "shell", "command": "ruff check ." },
+    { "label": "Format (ruff)", "type": "shell", "command": "ruff format ." },
+    { "label": "Test (pytest)", "type": "shell", "command": "pytest -q" }
+  ]
+}

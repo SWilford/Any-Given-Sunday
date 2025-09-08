@@ -1,0 +1,9 @@
+{
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "python.defaultInterpreterPath": ".venv\\Scripts\\python.exe",
+    "python.analysis.typeCheckingMode": "basic",
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "ruff.enable": true,
+    "ruff.lint.onSave": true
+}
