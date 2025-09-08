@@ -2,7 +2,7 @@
 
 ![Build](https://img.shields.io/github/actions/workflow/status/SWilford/Any-Given-Sunday/ci.yml?branch=main)
 ![Python](https://img.shields.io/badge/python-3.13-blue)
-![License](https://img.shields.io/github/license/SWilford/Any-Given-Sunday)
+![License](https://img.shields.io/github/license/SWilford/Any-Given-Sunday?cacheSeconds=60)
 
 Probabilistic NFL game predictions with a transparent, reproducible pipeline.
 Built with Python, FastAPI, scikit-learn, and PostgreSQL — deployed on cloud infra (Render/Railway).
