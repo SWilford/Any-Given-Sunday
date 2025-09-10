@@ -215,7 +215,6 @@ __marimo__/
 **/__pycache__/
 **/*.pyc
 .notebooks/
-data/
 model_artifacts/
 
 *.csv
