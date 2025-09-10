@@ -218,11 +218,8 @@ __marimo__/
 data/
 model_artifacts/
 
-.venv/
-.env
-.env.*
-*.env
-**/__pycache__/
-**/*.pyc
-data/
-model_artifacts/
+*.csv
+*.tsv
+*.json
+*.parquet
+*.feather

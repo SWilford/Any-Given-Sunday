@@ -1,7 +1,7 @@
 # Any Given Sunday 🏈
 
 ![Build](https://img.shields.io/github/actions/workflow/status/SWilford/Any-Given-Sunday/ci.yml?branch=main)
-![Python](https://img.shields.io/badge/python-3.13-blue)
+![Python](https://img.shields.io/badge/python-3.11-blue)
 ![License](https://img.shields.io/github/license/SWilford/Any-Given-Sunday)
 
 Probabilistic NFL game predictions with a transparent, reproducible pipeline.
